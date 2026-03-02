@@ -75,7 +75,7 @@ I tillegg har vi 'negative' aspekter, som skal unngås.
 * Muri
   Overloading of employees and machines
 
-### De7 Muda'ene
+### De 7 Muda'ene
 
 * Muda due to overproduction:
   Produce more than necessary.
