@@ -8,7 +8,7 @@ Cheat sheet for publising new posts:
 
 ```
 $ cd blog
-hugo new content/posts/<postname>.md
+$ hugo new content/posts/<postname>.md
 ```
 
 **hugo** supports asciidoc as well, so I might try that format as some point.
