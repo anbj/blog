@@ -1,7 +1,7 @@
 +++
 title = 'Poverty'
 date = 2026-03-12T14:48:32+01:00
-draft = true
+draft = false
 +++
 
 Why do we have an inflection point at 2030?

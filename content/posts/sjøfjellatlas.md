@@ -1,7 +1,7 @@
 +++
 title = 'Sjøfjellatlas'
 date = 2026-03-12T14:47:31+01:00
-draft = true
+draft = false
 +++
 
 # Idé
