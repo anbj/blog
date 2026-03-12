@@ -9,6 +9,8 @@ Lag et atlas av sjøfjell på norsk sokkel.
 Lag prominencepunkter, og kjør en for loop for hvret punkt som lager et fint utsnitt av området.
 Bruk e.g. ``-R<radius>`` for å lage region.
 
+Start med å lage **dummyskript** som plotter dummyposisjoner, bare for å se at det fungerer.
+
 # Bakgrunn
 
 Etter disse to artiklene:
