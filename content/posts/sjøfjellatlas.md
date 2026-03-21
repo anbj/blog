@@ -29,3 +29,11 @@ Søkte jeg på dette og fikk følgende resultater:
 * https://oceanexplorer.noaa.gov/ocean-fact/seamounts/
 * https://oceanexplorer.noaa.gov/expedition-feature/okeanos-ex1905-background-canyons-seamounts/
 * https://www.researchgate.net/publication/295531643_1_Seamounts_and_Seamount-like_Structures_of_the_Alboran_Sea
+
+# Figurtest
+
+Funker det med figurer her?
+
+Her er resultatet for ``gmt coast -RNO,SJ,IS -JM10c -W -Bxafg -Byafg -png map``::
+
+![Kart](map.png "Kart")
