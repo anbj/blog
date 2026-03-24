@@ -1,4 +1,4 @@
 baseURL = 'https://anbj.github.io/blog/'
 languageCode = 'en-us'
-title = 'AnBj\'s hugo site'
+title = 'AnBjs hugo site'
 theme = 'hugo-paper'
