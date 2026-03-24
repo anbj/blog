@@ -6,8 +6,11 @@ draft = false
 
 # Idé
 Lag et atlas av sjøfjell på norsk sokkel.
-Lag prominencepunkter, og kjør en for loop for hvret punkt som lager et fint utsnitt av området.
-Bruk e.g. ``-R<radius>`` for å lage region.
+* Lag prominencepunkter, og kjør en for loop for hvert punkt som lager et fint utsnitt av området.
+  Bruk e.g. ``-R<radius>`` for å lage region.
+* Plott prominence- og saddle-punktet.
+* Plott koter, og highlight koten som har samme verdi som **saddle-punktet**.
+  Dette illustrerer bra hva som danner *sokkelen* på sjøfjellet
 
 Start med å lage **dummyskript** som plotter dummyposisjoner, bare for å se at det fungerer.
 
@@ -22,7 +25,6 @@ Søkte jeg på dette og fikk følgende resultater:
 
 * https://www.google.com/search?q=sea+mount+mediano
 * https://portals.iucn.org/library/sites/library/files/documents/2015-043-intro_chp.1.pdf
-* https://www.google.com/search?q=Enmedio+sea+mount&sca_esv=246d97976218a45f&sxsrf=ANbL-n7dtIKcQ3Y2hwbnzm9oJqQSwozTjw%3A1773215939343&ei=wyCxafXRFLWpwPAPyd-x4Aw&biw=1798&bih=1157&ved=0ahUKEwi1v7KRsJeTAxW1FBAIHclvDMwQ4dUDCBE&uact=5&oq=Enmedio+sea+mount&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUVubWVkaW8gc2VhIG1vdW50MgcQIRigARgKMgQQIRgVSL4XUHdYzhNwAXgAkAEAmAGOAaAByQeqAQM3LjO4AQPIAQD4AQGYAgugAuQHwgIJEAAYsAMYBxgewgIFEAAYgATCAgsQABiABBiRAhiKBcICBBAAGB7CAgYQABgWGB7CAggQABgTGBYYHsICBRAhGKABmAMAiAYBkAYKkgcDOC4zoAfYI7IHAzcuM7gH4QfCBwMyLjnIBw-ACAA&sclient=gws-wiz-serp
 * https://www.icm.csic.es/en/news/csic-detects-hydrothermal-activity-first-time-submarine-volcano-located-between-tenerife-and
 * https://www.hi.no/en/hi/nettrapporter/rapport-fra-havforskningen-en-2019-42
 * https://www.whoi.edu/ocean-learning-hub/ocean-topics/how-the-ocean-works/seafloor-below/seamounts/
@@ -37,3 +39,5 @@ Funker det med figurer her?
 Her er resultatet for ``gmt coast -RNO,SJ,IS -JM10c -W -Bxafg -Byafg -png map``::
 
 ![Kart](map.png "Kart")
+
+Jepp, det funket.
