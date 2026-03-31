@@ -10,5 +10,3 @@ Her er noen interessante lenker for MBES:
 * [Multibeam Surveying](https://www.r2sonic.com/wp-content/uploads/2020/03/Multibeam-Surveying.pdf), desc av MBES-survey og planlegging.
 * [Multibeam survey planning - The key to success](https://www.kongsberg.com/globalassets/kongsberg-discovery/commerce/seafloor-mapping/em2040-mkii/em-technical-note-multibeam-survey-planning-the-key-to-success.pdf), gode tips om planlegging.
 * [Ocean Mapping Community Wiki](https://github.com/oceanmapping/community/wiki), en vell av informasjon om MBES, og mye *programvare*, e.g. [SwathCoverage](https://github.com/seamapper/SwathCoverage). Test disse hvis mulig.
-
-{{% include "auxfile" %}}
