@@ -16,7 +16,7 @@ draft: false
   ```
 
 * Her bruker vi **feature scaling**.
-  Først, **default**, hvor verdien blir mellom 0 - 1, deretter skalert etter eget ønske, -5000 - 5000:
+  Først, **default** (altså vi dropper å angi `a` og `b`), hvor verdien blir mellom 0 - 1, deretter -1 - 1, og til sist skalert etter eget ønske, -5000 - 5000:
 
   ```
   $ gmt grdmath -RSJ @earth_faa_01m.tif -116.625 SUB 231.725006104 -116.625 SUB DIV = norm_0_1.nc
