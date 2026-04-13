@@ -6,10 +6,11 @@ draft: false
 
 ## ``grdmath``
 
-* Her normaliserer vi et grid med to ulike kommandoer
+* Her normaliserer vi et grid med to ulike kommandoer.
+  Dette gir **samme resultat**:
 
-```
-~ $ gmt grdmath -RSJ  @earth_faa_01m  -116.625 SUB 231.725006104 -116.625 SUB DIV = norm.nc
+  ```
+  ~ $ gmt grdmath -RSJ  @earth_faa_01m  -116.625 SUB 231.725006104 -116.625 SUB DIV = norm.nc
 
-~ $ gmt grdmath -RSJ  @earth_faa_01m NORM = norm2.nc
-```
+  ~ $ gmt grdmath -RSJ  @earth_faa_01m NORM = norm2.nc
+  ```
