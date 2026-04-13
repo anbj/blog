@@ -10,9 +10,20 @@ draft: false
   Dette gir **samme resultat**:
 
   ```
-  ~ $ gmt grdmath -RSJ  @earth_faa_01m  -116.625 SUB 231.725006104 -116.625 SUB DIV = norm.nc
+  $ gmt grdmath -RSJ  @earth_faa_01m  -116.625 SUB 231.725006104 -116.625 SUB DIV = norm.nc
 
-  ~ $ gmt grdmath -RSJ  @earth_faa_01m NORM = norm2.nc
+  $ gmt grdmath -RSJ  @earth_faa_01m NORM = norm2.nc
+  ```
+
+* Her bruker vi **feature scaling**.
+  Først, **default**, hvor verdien blir mellom 0 - 1, deretter skalert etter eget ønske, -5000 - 5000:
+
+  ```
+  $ gmt grdmath earth_faa_01m.tif -116.625 SUB 231.725006104 -116.625 SUB DIV = norm_0_1.nc
+
+  $ gmt grdmath -1 earth_faa_01m.tif -116.625 SUB 231.725006104 -116.625 SUB DIV 1 -1 SUB MUL ADD = norm_-1_1.nc
+
+  $ gmt grdmath -5000 earth_faa_01m.tif -116.625 SUB 231.725006104 -116.625 SUB DIV 5000 -5000 SUB MUL ADD = norm_5000.nc
   ```
 
 ## grdcut
