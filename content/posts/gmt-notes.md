@@ -4,7 +4,7 @@ date: 2026-04-13T13:57:25+02:00
 draft: false
 ---
 
-## ``grdmath``
+## grdmath
 
 * Her normaliserer vi et grid med to ulike kommandoer.
   Dette gir **samme resultat**:
@@ -14,3 +14,7 @@ draft: false
 
   ~ $ gmt grdmath -RSJ  @earth_faa_01m NORM = norm2.nc
   ```
+
+## grdcut
+* Test [-D[+t]](https://docs.generic-mapping-tools.org/dev/grdcut.html#d) for **dry run**.
+* Test [-Slon/lat/radius[+n]](https://docs.generic-mapping-tools.org/dev/grdcut.html#s) for å angi **origin og radius**.
