@@ -2,6 +2,3 @@ baseURL = 'https://anbj.github.io/blog/'
 languageCode = 'en-us'
 title = 'AnBjs hugo site'
 theme = 'hugo-paper'
-[security]
-  [security.exec]
-    allow = ['^rst2html$']
