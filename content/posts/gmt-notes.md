@@ -29,10 +29,32 @@ draft: false
   a = (n == 0 || zmax == zmin) ? GMT->session.f_NaN : (1.0 / (zmax - zmin));^I/* Normalization scale */
   ```
 
-  Les mer:
+Les mer:
 
-  * [Rescaling (min-max normalization)](https://en.wikipedia.org/wiki/Feature_scaling#Rescaling_(min-max_normalization))
+* [Rescaling (min-max normalization)](https://en.wikipedia.org/wiki/Feature_scaling#Rescaling_(min-max_normalization))
+* gmt docs: [grdmath](https://docs.generic-mapping-tools.org/dev/grdmath.html)
+
+----
 
 ## grdcut
 * Test [-D[+t]](https://docs.generic-mapping-tools.org/dev/grdcut.html#d) for **dry run**.
 * Test [-Slon/lat/radius[+n]](https://docs.generic-mapping-tools.org/dev/grdcut.html#s) for å angi **origin og radius**.
+
+Les mer:
+
+* gmt docs: [grdcut](https://docs.generic-mapping-tools.org/dev/grdcut.html)
+
+----
+
+## gmt get
+* Last ned hhv. `earth`- og `earth_relief`-datasett:
+
+  ```
+  $ gmt get -Ddata=earth -N
+
+  $ gmt get -Ddata=earth_relief -N
+  ```
+
+Les mer:
+
+* gmt docs: [get](https://docs.generic-mapping-tools.org/dev/gmtget.html)
