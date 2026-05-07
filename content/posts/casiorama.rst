@@ -19,5 +19,6 @@ Mon tro om den nye ``f-91w`` har samme drift som den gamle..?
 
 To-do
 -----
-[ ] Legg til bilde(r).
-[ ] Sjekk drift av klokkene etter stilling den 7. mai.
+* [ ] Legg til bilde(r).
+
+* [ ] Sjekk drift av klokkene etter stilling den 7. mai.
