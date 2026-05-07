@@ -4,8 +4,6 @@ date: 2026-05-07T11:33:45+02:00
 draft: false
 ---
 
-Casiorama
-=========
 I går mottok jeg pakke i posten med mine **tre nye Casioklokker**:
 
 * https://www.urverket.no/casio/youth/f-91w-1yeg/1169152
@@ -19,7 +17,7 @@ Samtlige av klokkene - inkludert min gamle ``f-91w`` og ``AE-1200``, fikk tiden 
 Sjekk driften på dem om et par ukers tid.
 Mon tro om den nye ``f-91w`` har samme drift som den gamle..?
 
-## To-do
---------
+To-do
+-----
 [ ] Legg til bilde(r).
 [ ] Sjekk drift av klokkene etter stilling den 7. mai.
