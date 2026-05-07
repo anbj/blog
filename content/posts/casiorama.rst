@@ -11,7 +11,7 @@ I går mottok jeg pakke i posten med mine **tre nye Casioklokker**:
 * https://www.urverket.no/casio/collection/w-59-1vqes/17980
 
 Utpakking gikk fint.
-I dag får jeg med ``w-59``'en.
+I dag går jeg med og prøver ``w-59``'en.
 
 Samtlige av klokkene - inkludert min gamle ``f-91w`` og ``AE-1200``, fikk tiden stilt presist kl. 00:00 (~30 minutter før, men det får gå) den **7. mai**.
 Sjekk driften på dem om et par ukers tid.
