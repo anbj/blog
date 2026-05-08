@@ -1,7 +1,7 @@
 +++
 title = 'Todo'
 date = 2026-03-02T11:58:53+01:00
-draft = false
+draft = true
 +++
 
 Cheat sheet for publising new posts:

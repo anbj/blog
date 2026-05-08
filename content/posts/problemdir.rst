@@ -42,4 +42,4 @@ utfordringer er en integrert del av vår hverdag og portefølje. Tar du bort
 problemene tar du ut essensen. Du kan ta oppgaven ut av problemet, men ikle
 problemet ut av oppgaven’ sier han videre.
 
-Rompe D. ilter fra Nederland. Rompé Díltér fra Belgia
+Rompe D. Ilter fra Nederland. Rompé Díltér fra Belgia
