@@ -19,6 +19,12 @@ Samtlige av klokkene - inkludert min gamle ``f-91w`` og ``AE-1200``, fikk tiden 
 Sjekk driften på dem om et par ukers tid.
 Mon tro om den nye ``f-91w`` har samme drift som den gamle..?
 
+Logg
+----
+Jeg har hatt på meg følgende:
+
+* 7. mai - ...: ``w-59``
+
 To-do
 -----
 * [ ] Legg til bilde(r).
