@@ -23,7 +23,32 @@ Logg
 ----
 Jeg har hatt på meg følgende:
 
-* 7. mai - ...: ``w-59``
+* 7. - 13. mai...: ``w-59``.
+* 13. mai - ...: ``f-105w``
+
+.. list-table:: Testoversikt - klokker
+  :header-rows: 1
+
+  * - Klokke
+    - Fra dato
+    - Til dato
+  * - ``w-59``
+    - 7. mai
+    - 13. mai
+  * - ``f-105w``
+    - 13. mai
+    - --
+
+Review
+------
+``w-59``
+""""""""
+Så har jeg hatt på meg ``w-59`` i én uke.
+Det er egentlig veldig lite å si - på den gode måten.
+Den likner veldig - og føles utrolig - lik, ``f-91w``.
+Lite oppsiktsvekkende, på den gode måten.
+
+Next up, ``f-105w``.
 
 Drift
 -----
