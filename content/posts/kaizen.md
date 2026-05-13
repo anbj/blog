@@ -125,7 +125,8 @@ Visual exercises for kvalitet:
 7. Stratification (alternatively, flow chart or run chart)\
   ![Stratification](https://upload.wikimedia.org/wikipedia/commons/f/fa/Stratified_sampling.PNG)
 
-***
+# Ikigai
+Alle disse prinsippene hviler på et kanskje enda viktige prinsipp, nemlig [Ikigai](https://en.wikipedia.org/wiki/Ikigai).
 
 ## Lenker
 * https://en.wikipedia.org/wiki/Kaizen
