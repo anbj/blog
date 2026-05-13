@@ -21,10 +21,7 @@ Mon tro om den *nye* ``f-91w`` har samme drift som den *gamle*..?
 
 Logg
 ----
-Jeg har hatt på meg følgende:
-
-* 7. - 13. mai...: ``w-59``.
-* 13. mai - ...: ``f-105w``
+Under følger oversikt over klokker jeg har testet.
 
 .. list-table:: Testoversikt - klokker
   :header-rows: 1
