@@ -11,6 +11,10 @@ Fikk tak i følgende, men mangler ``w217h``, som jeg også tenke meg å teste:
 * `f-91w <https://www.urverket.no/casio/youth/f-91w-1yeg/1169152>`__
 * `f-105w <https://www.urverket.no/casio/collection/f-105w-1awyef/17637>`__
 * `w-59 <https://www.urverket.no/casio/collection/w-59-1vqes/17980>`__
+* `w-217h <https://www.urverket.no/casio/classic/w-217h-1avdf/885621>`__ - **ny**, 14.mai.
+
+Den 14. mai endte jeg nå opp med å kjøpe ``w-217h``.
+Da får jeg **alle** klokkene som jeg synes er relevante for meg fra videoen over.
 
 Utpakking gikk fint.
 I dag prøver jeg ``w-59``'en.
