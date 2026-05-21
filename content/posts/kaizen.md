@@ -110,7 +110,8 @@ I tillegg har vi 'negative' aspekter, som skal unngås.
 ## Seven basic tools of quality
 Visual exercises for kvalitet:
 
-1. Cause-and-effect diagram (also known as the "fishbone diagram" or Ishikawa diagram)\
+1. Cause-and-effect diagram (also known as the "fishbone diagram" or Ishikawa diagram).
+   (Dette kan vi lage med e.g. [mermaid](https://mermaid.ai/open-source/syntax/ishikawa.html))\
   ![Cause-and-effect diagram](https://upload.wikimedia.org/wikipedia/commons/a/af/Cause_and_effect_diagram_for_defect_XXX.svg)
 2. Check sheet\
   ![Check sheet](https://upload.wikimedia.org/wikipedia/commons/3/3a/Check_sheet_for_motor_assembly.svg)
