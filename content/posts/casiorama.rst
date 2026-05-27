@@ -4,7 +4,7 @@ date: 2026-05-07T11:33:45+02:00
 draft: false
 ---
 
-*Sist oppdatert: 20.05.2026*
+*Sist oppdatert: 27.05.2026*
 
 Intro
 -----
@@ -32,6 +32,15 @@ Dette gir **UNIX time**::
 Sjekk driften på dem om et par ukers tid.
 Mon tro om den *nye* ``f-91w`` har samme drift som den *gamle*..?
 
+*Oppdatering 27. mai:*
+Så er ``w-217h`` hentet på posten.
+Jeg skal straks *unboxe*.
+
+Denne ble stilt 23:45 den **27.mai**, **UNIX time**::
+
+  $ date -d '2026-05-27 23:45' +'%s'
+  1779918300
+
 ----
 
 Logg
@@ -50,6 +59,12 @@ Under følger oversikt over klokker jeg har testet.
   * - ``f-105w``
     - 13. mai
     - 20. mai
+  * - ``f-91w``
+    - 20. mai
+    - 27. mai
+  * - ``w-217h``
+    - 27. mai
+    - --
 
 ----
 
@@ -73,12 +88,23 @@ Next up er klassikeren... ``f-91w``.
 
 *PS: venter på at * ``w-217h`` *kommer i postkassen.*
 
-----
+``f-91w``
+---------
+Så har det vært klassikerens uke, nemlig ``f-91w``.
+Som forventet var dette en følelse jeg hadde godt i minne.
+Størrelsen er liten, den nærmest smelter bort på armen.
+Det dårlige, dog sjarmerende, *backlighten*.
+Som med de andre modellene jeg har prøvd så får jeg av og til på fornemmelsen at reimen er *litt mindre og trangere*, enn den var på min originale ``f-91w``.
+Jeg vil tro at objektivt sett er reimen helt lik.
+Reimen gir seg muligens litt over tid.
+
+Next up er klokken det kanskje knytter seg mest spenning til, nemlig ``w-217h``.
 
 Drift
 -----
 Her fører jeg driften de ulike klokkene har.
 Man kan oppgi drift som sek/24h, sek/h, sek/sek, etc.
+Også interessant å føre *reciprocal* av dette, altså hvor mange dager tar det før klokken har driftet ett sekund.
 
 * ``f-91w``:
 * ``f-105w``:
