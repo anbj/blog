@@ -24,6 +24,11 @@ Utpakking gikk fint.
 I dag prøver jeg ``w-59``'en.
 
 Samtlige av klokkene - inkludert min gamle ``f-91w`` og ``ae-1200``, fikk tiden stilt presist ca. kl. 23:30 den **6.mai**.
+Dette gir **UNIX time**::
+
+  $ date -d '2026-05-06 23:30' +"%s"
+  1778103000
+
 Sjekk driften på dem om et par ukers tid.
 Mon tro om den *nye* ``f-91w`` har samme drift som den *gamle*..?
 
