@@ -64,7 +64,7 @@ Under følger oversikt over klokker jeg har testet.
     - 27. mai
   * - ``w-217h``
     - 27. mai
-    - --
+    - TBA
 
 ----
 
@@ -79,6 +79,8 @@ Lite oppsiktsvekkende, på den gode måten.
 
 Next up, ``f-105w``.
 
+.. image:: w59.png
+
 ``f-105w``
 """"""""""
 Så har jeg gått med ``f-105w`` i én uke.
@@ -87,6 +89,8 @@ Denne likte jeg veldig godt.
 Next up er klassikeren... ``f-91w``.
 
 *PS: venter på at * ``w-217h`` *kommer i postkassen.*
+
+.. image:: f105w.png
 
 ``f-91w``
 ---------
@@ -99,6 +103,14 @@ Jeg vil tro at objektivt sett er reimen helt lik.
 Reimen gir seg muligens litt over tid.
 
 Next up er klokken det kanskje knytter seg mest spenning til, nemlig ``w-217h``.
+
+.. image:: f91w.png
+
+``w-217h``
+----------
+Kommer!
+
+.. image:: w217h.png
 
 Drift
 -----
@@ -115,5 +127,5 @@ Også interessant å føre *reciprocal* av dette, altså hvor mange dager tar de
 
 To-do
 -----
-* [ ] Legg til bilde(r).
+* [x] Legg til bilde(r).
 * [ ] Sjekk drift av klokkene etter stilling den 7. mai.
