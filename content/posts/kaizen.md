@@ -129,6 +129,10 @@ Visual exercises for kvalitet:
 # Ikigai
 Alle disse prinsippene hviler på et kanskje enda viktige prinsipp, nemlig [Ikigai](https://en.wikipedia.org/wiki/Ikigai).
 
+# Se også
+
+* [Kanban](https://en.wikipedia.org/wiki/Kanban)
+
 ## Lenker
 * https://en.wikipedia.org/wiki/Kaizen
 * https://en.wikipedia.org/wiki/Five_whys
