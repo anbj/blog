@@ -10,3 +10,5 @@ Some things are important because it's the *first time* it's been done.
 Later iterations does *not* bring the same new insight to the table, and therefore, are not that important.
 
 Background: initial resource assessment.
+
+Conversely, some things *are* important, at each iteration, and every time.
