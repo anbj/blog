@@ -36,7 +36,7 @@ Mon tro om den *nye* ``f-91w`` har samme drift som den *gamle*..?
 Så er ``w-217h`` hentet på posten.
 Jeg skal straks *unboxe*.
 
-Denne ble stilt 23:45 den **27.mai**, **UNIX time**::
+Denne ble stilt 23:45 den **27.mai**, **UNIX time** (dette går som **28. mai** i tabellen)::
 
   $ date -d '2026-05-27 23:45' +'%s'
   1779918300
@@ -53,18 +53,23 @@ Under følger oversikt over klokker jeg har testet.
   * - Klokke
     - Fra dato
     - Til dato
+    - Dato stilt (UNIX time)
   * - ``w-59``
     - 7. mai
     - 13. mai
+    - 1778103000
   * - ``f-105w``
     - 13. mai
     - 20. mai
+    - 1778103000
   * - ``f-91w``
     - 20. mai
     - 27. mai
+    - 1778103000
   * - ``w-217h``
     - 27. mai
     - TBA
+    - 1779918300
 
 ----
 
