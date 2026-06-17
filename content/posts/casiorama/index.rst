@@ -119,18 +119,13 @@ Kommer!
 
 Drift
 -----
-Her fører jeg driften de ulike klokkene har.
-Man kan oppgi drift som sek/24h, sek/h, sek/sek, etc.
-Også interessant å føre *reciprocal* av dette, altså hvor mange dager tar det før klokken har driftet ett sekund.
+Her er driften for de ulike klokkene.
+Utført 17. juni 2026::
 
-* ``f-91w``:
-* ``f-105w``:
-* ``w-59``:
-* ``ae-1200``:
-
-----
-
-To-do
------
-* [x] Legg til bilde(r).
-* [ ] Sjekk drift av klokkene etter stilling den 7. mai.
+  klokke	unix stilt [s]	unix sjekket [s]	testintervall [s]	testintervall [døgn]	Visningtid ved sjekk	drift [s]	drift [s/s]		drift [s/24h]		drift reciprocal [døgn/1]
+  w-59		1778103000	1781648896		3545896			41.040462962963		1781648900		4		1.12806466969138E-06	0.0974647874613356	10.2601157407407
+  f-105w	1778103000	1781648896		3545896			41.040462962963		1781648907		11		3.10217784165131E-06	0.268028165518673	3.73095117845118
+  f-91w		1778103000	1781648896		3545896			41.040462962963		1781648900		4		1.12806466969138E-06	0.0974647874613356	10.2601157407407
+  w-217h	1779918300	1781648940		1730640			20.0305555555556	1781648949		9		5.20038829565941E-06	0.449313548744973	2.22561728395062
+  ae-1200	1778103000	1781648896		3545896			41.040462962963		1781648896		0		0			0			#DIV/0!
+  f-91w (old)	1778103000	1781648896		3545896			41.040462962963		1781648924		28		7.89645268783969E-06	0.682253512229349	1.46573082010582
