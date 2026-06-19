@@ -68,7 +68,7 @@ Under følger oversikt over klokker jeg har testet.
     - 1778103000
   * - ``w-217h``
     - 27. mai
-    - TBA
+    - 19. juni
     - 1779918300
 
 ----
@@ -93,7 +93,7 @@ Det første jeg tenker, er at dette er en klokke som ser skikkelig tøff ut, med
 Denne likte jeg veldig godt.
 Next up er klassikeren... ``f-91w``.
 
-*PS: venter på at * ``w-217h`` *kommer i postkassen.*
+**PS**: venter på at ``w-217h`` kommer i postkassen.
 
 .. image:: f105w.png
 
@@ -113,7 +113,17 @@ Next up er klokken det kanskje knytter seg mest spenning til, nemlig ``w-217h``.
 
 ``w-217h``
 ----------
-Kommer!
+Så har jeg fått med ``w-217h`` er god stund.
+Tatt forventningene i betraktning, synes jeg ikke klokken utmerket seg spesielt.
+Isolert sett er den bra, men det står ikke i forhold til prisen.
+Én av grunnene til at jeg var spent på klokken, var at den ifølge Youtube-videoen over skulle ha høy alarm-lyd.
+Jeg synes ikke det var forskjell på alarmlyden på denne og e.g. ``f-91w``.
+Det er en god klokke, men jeg kommer nok ikke til å kjøpe den igjen.
+Av de nye klokkene er det denne som har gitt minst positivt inntrykk.
+
+Nå har jeg testet alle de nye klokkene.
+Spørsmålet nå er hvilken jeg vil bruke fremover..
+Og etter å ha tenkt litt, har jeg nå tatt på meg ``f-105w``.
 
 .. image:: w217h.png
 
