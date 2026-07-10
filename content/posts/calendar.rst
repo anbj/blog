@@ -17,5 +17,10 @@ Everyone knows it, everyone has it, everyone use it.
 You can base basically everything on it.
 That's why everyone wants it.*
 
+One problem though, is the unlimited ways to *format* a point in time.
+Think about all the different date formats, time formats, etc.
+One elegant way is using `Unix time <https://en.wikipedia.org/wiki/Unix_time>`__.
+One single integer, and based on that, you can easily go from this to all others formats that you want.
+
 And then I came to think of it, what other universally SPOT’s is like a calendar?
 I would really like to know.
