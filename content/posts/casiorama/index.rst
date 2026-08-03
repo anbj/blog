@@ -4,10 +4,18 @@ date: 2026-05-07T11:33:45+02:00
 draft: false
 ---
 
-*Sist oppdatert: 27.05.2026*
+*Sist oppdatert: 03.08.2026*
 
 Intro
 -----
+*If I can find out the time with
+a watch with a five-year-old
+battery for fifteen follars,
+why would I bother with
+a Rolex?*
+
+-- `Chuck Feeney <https://en.wikipedia.org/wiki/Chuck_Feeney>`__ (https://www.youtube.com/watch?v=2JEcZO4oKpA).
+
 I går, **6. mai 2026**, mottok jeg pakke i posten med mine **tre nye Casioklokker**.
 De ble kjøpt etter inspirasjon av `Stop Buying the Casio F-91W (Get These Instead) <https://www.youtube.com/watch?v=TfFg_RifcQE>`__.
 Fikk tak i følgende, men mangler ``w217h``, som jeg også tenke meg å teste:
