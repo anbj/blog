@@ -3,6 +3,12 @@ title: "The Calendar - the single point of truth"
 date: 2026-05-28T14:43:11+02:00
 ---
 
+*Stadig nye millioner av mennesker kan trekkes inn i systemet [moderniteten] via dets enkle fellesnevnere - klokketiden, skriften, pengeøkonomien - uten at det skifter karakter eller må omorganiseres.*
+
+- Øyeblikkets tyranni, s. 68.
+
+----
+
 The other day I read that https://basecamp.com/ finally implemented a complete calendar.
 In their book, `Shape Up <https://basecamp.com/books#shapeup>`__, they present implementing a proper calendar as not worth the time, though customers requested it.
 
