@@ -5,7 +5,7 @@ date: 2026-05-28T14:43:11+02:00
 
 *Stadig nye millioner av mennesker kan trekkes inn i systemet [moderniteten] via dets enkle fellesnevnere - klokketiden, skriften, pengeøkonomien - uten at det skifter karakter eller må omorganiseres.*
 
-- Øyeblikkets tyranni, s. 68.
+-- Øyeblikkets tyranni, s. 68.
 
 ----
 
