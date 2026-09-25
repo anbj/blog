@@ -7,5 +7,5 @@ draft = false
 # Lappepolicy
 Min lappepolicy er:
 
-*Lapper skal enten handles på, eller discardes
+*Lapper skal enten handles på, eller discardes.
 Begge utfall fører til at lappen destrueres*.
