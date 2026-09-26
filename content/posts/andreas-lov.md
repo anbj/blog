@@ -1,5 +1,5 @@
 +++
-title = 'Andreas\' Lov'
+title = "Andreas' Lov"
 date = 2026-09-25T22:28:10+02:00
 draft = false
 +++
