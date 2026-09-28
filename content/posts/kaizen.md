@@ -131,7 +131,9 @@ Alle disse prinsippene hviler på et kanskje enda viktige prinsipp, nemlig [Ikig
 
 # Se også
 
-* [Kanban](https://en.wikipedia.org/wiki/Kanban)
+* Wikipedia: [Kanban](https://en.wikipedia.org/wiki/Kanban)
+* Wikipedia: [OODA loop](https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)#OODA_loop)
+* Wikipedia: [OODA loop](https://en.wikipedia.org/wiki/OODA_loop)
 
 ## Lenker
 * https://en.wikipedia.org/wiki/Kaizen
