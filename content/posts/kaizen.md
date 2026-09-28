@@ -136,10 +136,11 @@ Alle disse prinsippene hviler på et kanskje enda viktige prinsipp, nemlig [Ikig
 * **D**ecide, what is the smallest next move you can make. *I'm going to start with the title pages and outline three main points*.
 * **A**ct do it before your brain makes 10 more imaginary outcomes. *Open the document*.
 
-Most decisions don't require perfect information.
+*Most decisions don't require perfect information.
 You dont need to solve the whole problem, you just need the next step.
-Act.
-Perfect later.
+
+Act now.
+Perfect later.*
 
 * Wikipedia: [OODA loop](https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)#OODA_loop) - referanse fra Wikipediasiden om John Boyd.
 * Wikipedia: [OODA loop](https://en.wikipedia.org/wiki/OODA_loop) - hovedartikkel.
