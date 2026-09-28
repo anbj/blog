@@ -130,7 +130,6 @@ Visual exercises for kvalitet:
 Alle disse prinsippene hviler på et kanskje enda viktige prinsipp, nemlig [Ikigai](https://en.wikipedia.org/wiki/Ikigai).
 
 # OODA
-
 * **O**bserve, what are the actual facts, not just the story you've made up. *When is the project due?*
 * **O**rient, what matters the most to you here. *I want to feel less stressed tomorrow*.
 * **D**ecide, what is the smallest next move you can make. *I'm going to start with the title pages and outline three main points*.
@@ -142,10 +141,12 @@ You dont need to solve the whole problem, you just need the next step.*
 *Act now.
 Perfect later.*
 
+Les mer:
+
 * Wikipedia: [OODA loop](https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)#OODA_loop) - referanse fra Wikipediasiden om John Boyd.
 * Wikipedia: [OODA loop](https://en.wikipedia.org/wiki/OODA_loop) - hovedartikkel.
 
-# Se også
+# Kanban
 
 * Wikipedia: [Kanban](https://en.wikipedia.org/wiki/Kanban)
 
