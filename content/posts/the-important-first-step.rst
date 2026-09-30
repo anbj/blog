@@ -7,7 +7,7 @@ draft: false
 Heuristic:
 
 Some things are important because it's the *first time* it's been done.
-Later iterations does *not* bring the same new insight to the table, and therefore, are not that important.
+Later iterations do *not* bring the same new insight to the table, and are therefore not that important.
 
 Background: initial resource assessment.
 
