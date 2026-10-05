@@ -6,6 +6,8 @@ draft: false
 
 ## grdmath
 
+*Dette gjorde jeg vel i forbindelse med leking i blender?*
+
 Her bruker vi **feature scaling**.
 Først normaliserer vi manuelt til 0-1.
 Deretter samme, men med **NORM**, som gir samme resultat (0-1).
