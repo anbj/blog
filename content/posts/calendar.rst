@@ -30,3 +30,5 @@ One single integer, and based on that, you can easily go from this to all others
 
 And then I came to think of it, what other universally SPOT’s is like a calendar?
 I would really like to know.
+
+* For software developers, a SPOT is the code repository, e.g. the git repository.
